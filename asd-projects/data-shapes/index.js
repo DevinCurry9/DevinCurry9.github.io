@@ -114,9 +114,7 @@ $(document).ready(function () {
     const repeats = [1, 2, 3];
 
     for (var i = 0; i < colors.length; i++) {
-      for (var j = 0; j < shapes.len]\
-        
-        ]gth; j++) {
+      for (var j = 0; j < shapes.length; j++) {
         for (var k = 0; k < repeats.length; k++) {
           // This condition limits the number of objects created by skipping the combo of "blue circle 3"
           if (
